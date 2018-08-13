@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1534141883 source:c:\users\david\desktop\classicalgorithm\reviewthread\main.cpp
+	<iostream>
+	<deque>
+	<mutex>
+	<thread>
+	<condition_variable>
+
