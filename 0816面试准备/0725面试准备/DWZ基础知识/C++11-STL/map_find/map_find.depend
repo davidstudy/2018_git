@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534129091 source:c:\users\david\desktop\classicalgorithm\map_find\main.cpp
+	<iostream>
+	<map>
+

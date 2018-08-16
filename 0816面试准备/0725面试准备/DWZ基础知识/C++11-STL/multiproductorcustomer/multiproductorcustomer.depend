@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1533538761 source:c:\users\david\desktop\c++11-stl\multiproductorcustomer\main.cpp
+	<iostream>
+	<mutex>
+	<thread>
+	<condition_variable>
+	<iostream>
+	<condition_variable>
+	<vector>
+	<thread>
+	<unistd.h>
+	<cstdlib>
+	<condition_variable>
+	<iostream>
+	<mutex>
+	<thread>
+
