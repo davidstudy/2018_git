@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534816398 source:c:\users\david\desktop\classicalgorithm\add2num\main.cpp
+	<iostream>
+	<vector>
+	<string>
+	<string.h>
+

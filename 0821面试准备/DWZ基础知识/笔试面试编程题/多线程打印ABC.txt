@@ -1,0 +1,36 @@
+#include <iostream>
+#include <thread>
+#include <mutex>
+#include <condition_variable>
+using namespace std;
+
+mutex mux;
+condition_variable conv;
+int gc = 0;
+int cycle = 10;
+
+void PrintABC(char c)
+{
+    int c1 = c - 'A';
+    for(int i=0 ; i<cycle ; i++)
+    {
+        unique_lock<mutex> loc(mux);
+        conv.wait(loc,[c1](){return  c1==gc ;});
+        char s = 'A'+c1;
+        cout << s ;
+        gc = (c1+1)%3;
+        loc.unlock();
+        conv.notify_all();
+    }
+}
+
+int main()
+{
+    thread t1(PrintABC,'A');
+    thread t2(PrintABC,'B');
+    thread t3(PrintABC,'C');
+    t1.join();
+    t2.join();
+    t3.join();
+    return 0;
+}
