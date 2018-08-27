@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1533724497 source:c:\users\david\desktop\classicalgorithm\heap_learning\main.cpp
+	<iostream>
+	<algorithm>
+	<vector>
+	<iostream>
+	<vector>
+	<algorithm>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1534746362 source:c:\users\david\desktop\classicalgorithm\360numgame\main.cpp
+	<iostream>
+	<vector>
+

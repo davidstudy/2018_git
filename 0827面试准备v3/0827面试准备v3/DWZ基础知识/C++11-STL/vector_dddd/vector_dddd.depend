@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1534128552 source:c:\users\david\desktop\classicalgorithm\vector_dddd\main.cpp
+	<iostream>
+	<vector>
+	<deque>
+	<map>
+

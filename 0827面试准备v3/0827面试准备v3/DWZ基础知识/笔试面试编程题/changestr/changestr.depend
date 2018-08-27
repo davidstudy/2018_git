@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1534751170 source:c:\users\david\desktop\classicalgorithm\changestr\main.cpp
+	<iostream>
+	<string>
+	<vector>
+
