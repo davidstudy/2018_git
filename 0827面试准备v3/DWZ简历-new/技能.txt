@@ -1,0 +1,7 @@
+熟练掌握C/C++语言，熟悉MFC编程运用，熟悉常用的STL，熟悉OOP思想及相关知识，了解sql语法；      
+熟悉常用的数据结构、算法、设计模式，对TCP/IP协议、串口通信了解；         
+熟练掌握VC、VS、CodeBlocks等IDE工具，了解MySQL、Labview使用；
+熟悉Source Insight、Matlab、Rational Rose、Xmind等常用开发软件；
+熟悉Git代码托管及常用的Git指令，熟练使用TortoiseGit工具，并有大型项目使用经验；
+熟悉项目开发与测试，并能完成相应的技术和测试文档，有团队开发经验，具备代码维护与测试和技术调研能力；
+具备良好的英文听说读写能力，可无障碍查阅英文文档；CET4（472分） 、CET6（492分）
